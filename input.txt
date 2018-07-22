@@ -1,0 +1,5 @@
+URL=https://www.tradingview.com/chart/Ap3gNPWd/
+Username=mahedi_mahfuj
+Password=mahedi2221
+Output File Location=C:/Users/Abhijit/Downloads/tradealert-master/tradealert-master
+TimeInterval=5
